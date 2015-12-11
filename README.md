@@ -1,0 +1,1 @@
+This repo just collects dev versions of various jupyter-js-* repos necessary for building a notebook so they can be used in a coordinated fashion.
