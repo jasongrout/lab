@@ -1,0 +1,16 @@
+[submodule "jupyter-js-cells"]
+	path = jupyter-js-cells
+	url = git@github.com:jasongrout/jupyter-js-cells.git
+	branch = notebook
+[submodule "jupyter-js-notebook"]
+	path = jupyter-js-notebook
+	url = git@github.com:jasongrout/jupyter-js-notebook.git
+	branch = notebook
+[submodule "jupyter-js-input-area"]
+	path = jupyter-js-input-area
+	url = git@github.com:jasongrout/jupyter-js-input-area.git
+	branch = notebook
+[submodule "jupyter-js-output-area"]
+	path = jupyter-js-output-area
+	url = git@github.com:jasongrout/jupyter-js-output-area.git
+	branch = notebook
