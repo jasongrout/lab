@@ -14,3 +14,6 @@
 	path = jupyter-js-output-area
 	url = git@github.com:jasongrout/jupyter-js-output-area.git
 	branch = notebook
+[submodule "jupyter-js-editor"]
+	path = jupyter-js-editor
+	url = https://github.com/jupyter/jupyter-js-editor.git
