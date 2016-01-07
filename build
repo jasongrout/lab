@@ -1,6 +1,6 @@
 #!/bin/sh
 
-for i in jupyter-js-input-area jupyter-js-output-area jupyter-js-cells jupyter-js-notebook
+for i in jupyter-js-editor jupyter-js-input-area jupyter-js-output-area jupyter-js-cells jupyter-js-notebook
 do
   cd $i
   rm -rf node_modules
