@@ -16,4 +16,4 @@
 	branch = notebook
 [submodule "jupyter-js-editor"]
 	path = jupyter-js-editor
-	url = https://github.com/jupyter/jupyter-js-editor.git
+	url = https://github.com/jasongrout/jupyter-js-editor.git
